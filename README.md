@@ -16,3 +16,4 @@ This is a personal reference and study log. It showcases how AI-assisted learnin
 - Log rotation
 - Cron integrity check alerts
 
+# Guided-linux-hardening
