@@ -1,4 +1,3 @@
-
 # 🛡️ Snort Lab Setup Guide (VPN + Local Testing)
 
 This guide helps you configure and safely run Snort as an IDS (Intrusion Detection System) on your own machine — including support for VPN (tun0) and standard Wi-Fi (wlo1) interfaces. Includes ethical usage, test rules, and confirmation steps.
