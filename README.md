@@ -1,3 +1,17 @@
+> 🛡️ **Disclaimer: AI-Guided, Manually Verified Hardening**
+>
+> This Linux Mint Hardening repository documents the security configuration of my personal system. All steps, installations, and configurations were **performed manually** by me in a live lab environment.
+>
+> I used ChatGPT (AI) as a **guidance and documentation tool** to:
+> - Help structure my notes
+> - Explain steps clearly
+> - Generate `.md` files and write-ups based on what I tested
+>
+> Every command, setting, and configuration in this repo has been **manually executed and verified** by me on my own machine. This project reflects my personal effort to build and maintain a secure Linux Mint system while documenting the learning process professionally.
+
+![AI-Assisted, Lab Verified](https://img.shields.io/badge/AI--Assisted-Lab--Verified-blue?style=for-the-badge&logo=linux)
+
+
 # Guided Linux Hardening (Linux Mint)
 
 This repository documents the step-by-step hardening of a personal Linux Mint system, guided entirely through ChatGPT.
