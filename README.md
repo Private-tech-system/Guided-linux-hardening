@@ -29,6 +29,7 @@ This hardening process was guided interactively by ChatGPT, acting as a security
 ## 🛡️ Security Features Applied
 
 - ✅ SSH hardening (custom port, key-only auth, no root login)
+- ✅ Snort
 - ✅ Full disk encryption (LUKS)
 - ✅ AppArmor enforcement
 - ✅ AIDE (file integrity checking)
