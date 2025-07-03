@@ -52,6 +52,7 @@ This is not a professional hardening benchmark. It's a learning-driven journey t
 Every security step was completed manually after being guided by ChatGPT (GPT-4o). This is not a solo or expert-based project — it's a documented walk-through with AI as a teacher.
 
 ---
+> 📘 Note: This project was guided and formatted with AI assistance (ChatGPT), but all content was reviewed and edited manually. MIT License applies to the final curated repo content.
 
 *Use this for inspiration, not for blind copying. Understand your system before applying security changes.*
 
